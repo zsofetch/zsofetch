@@ -14,7 +14,7 @@
 ![.Net](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/tailwind-512BD4?style=for-the-badge&logo=.tailwind&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
+![CISCO](https://img.shields.io/badge/cisco-%2300f.svg?style=for-the-badge&logo=cisco&logoColor=white)
 
 ---
 
