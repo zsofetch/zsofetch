@@ -1,10 +1,10 @@
-# 💫 About Me:
+# 🔮 what i'm currently up to:
 
 🔭 i'm building my portfolio
 
 ---
 
-# 💻 Tech Stack:
+# 💻 tech stack:
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/CS-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -18,6 +18,6 @@
 
 ---
 
-# 📊 GitHub Stats:
+# 📊 stats :
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zsofetch&layout=compact&theme=vision-friendly-dark)
